@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivankdubey25
-- 👀 I’m interested in Python, MySQL
-- 🌱 I’m currently pursuing BCA first year
+- 👀 I’m interested in Python, MySQL, Data Science, Software Development
+- 🌱 I’m currently pursuing BCA (1st Year)
 - 📫 E-Mail - SKD25102003@gmail.com
 
 <!---
