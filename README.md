@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivankdubey25
 - 👀 I’m interested in Python, MySQL, Data Science, Software Development
 - 🌱 I’m currently pursuing BCA (1st Year)
-- 📫 E-Mail - SKD25102003@gmail.com
+- 📫 Programmer & Data Analyst at Centre of Academic Assistance, New Delhi
 
 <!---
 shivankdubey25/shivankdubey25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
